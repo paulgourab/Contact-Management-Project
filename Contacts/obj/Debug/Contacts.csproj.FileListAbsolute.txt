@@ -1,0 +1,33 @@
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\Contacts.exe.config
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\Contacts.exe
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\Contacts.pdb
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\MySql.Data.dll
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\Google.Protobuf.dll
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\BouncyCastle.Crypto.dll
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\Ubiety.Dns.Core.dll
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\Renci.SshNet.dll
+E:\Study\Progarmming\MS Visual Studio\Contacts\bin\Debug\MySql.Data.xml
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.Contact.resources
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.csproj.CopyComplete
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.exe
+E:\Study\Progarmming\MS Visual Studio\Contacts\obj\Debug\Contacts.pdb
+E:\Study\X-Temp\Contacts\bin\Debug\Contacts.exe.config
+E:\Study\X-Temp\Contacts\bin\Debug\Contacts.exe
+E:\Study\X-Temp\Contacts\bin\Debug\Contacts.pdb
+E:\Study\X-Temp\Contacts\bin\Debug\MySql.Data.dll
+E:\Study\X-Temp\Contacts\bin\Debug\Google.Protobuf.dll
+E:\Study\X-Temp\Contacts\bin\Debug\BouncyCastle.Crypto.dll
+E:\Study\X-Temp\Contacts\bin\Debug\Ubiety.Dns.Core.dll
+E:\Study\X-Temp\Contacts\bin\Debug\Renci.SshNet.dll
+E:\Study\X-Temp\Contacts\bin\Debug\MySql.Data.xml
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.Contact.resources
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.Login.resources
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.csproj.CopyComplete
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.exe
+E:\Study\X-Temp\Contacts\obj\Debug\Contacts.pdb
